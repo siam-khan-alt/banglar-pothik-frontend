@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --color-nature-green: #2D5A27;
+  --color-earth-brown: #5C4033;
+  --color-harvest-gold: #DAA520;
+  --color-pothik-bg: #F5F5DC;
+
+  --font-bengali: "Hind Siliguri", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-pothik-bg font-bengali text-earth-brown;
+  }
+}
+
+
+@keyframes orbit {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+@keyframes counter-orbit {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(-360deg); }
+}
+
+.animate-orbit {
+  animation: orbit 40s linear infinite;
+}
+
+.animate-counter-orbit {
+  animation: counter-orbit 40s linear infinite;
+}
+
+.pause-on-hover:hover .animate-orbit,
+.pause-on-hover:hover .animate-counter-orbit {
+  animation-play-state: paused;
+}
