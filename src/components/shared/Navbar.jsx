@@ -33,7 +33,7 @@ const Navbar = () => {
 
   return (
     <nav className="bg-nature-green text-pothik-bg shadow-xl sticky top-0 z-50 font-bengali">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto px-4 md:px-6 ">
         <div className="flex items-center justify-between h-20">
           
           {/* Logo Section */}

@@ -1,0 +1,196 @@
+{
+  "seasons": [
+    {
+      "id": "grishma",
+      "name": { "bn": "গ্রীষ্ম", "en": "Summer" },
+      "period": { "bn": "বৈশাখ - জ্যৈষ্ঠ", "en": "Mid April - Mid June" },
+      "card_img": "https://www.goodnet.org/photos/620x0/44706_hd.jpg",
+      "color": "from-orange-500/80",
+      "description": {
+        "bn": "তীব্র দাবদাহ, ধূলিঝড় আর কালবৈশাখীর রুদ্রমূর্তি নিয়ে আসে গ্রীষ্ম। এটি মূলত রসালো ফলের ঋতু বা 'মধুমাস'। প্রকৃতির চরম রুক্ষতার মাঝেও আম-কাঁঠালের মিষ্টি ঘ্রাণে চারপাশ ম ম করে। খাল-বিল শুকিয়ে চৈত্র-বৈশাখের খরায় মাঠ ফেটে চৌচির হয়ে যায়, যা এক তৃষ্ণার্ত প্রকৃতির প্রতিচ্ছবি। তপ্ত বাতাস আর লু-হাওয়ায় জনজীবন ওষ্ঠাগত হয়ে পড়ে, তবুও কালবৈশাখীর আগমনি বার্তা এক অদ্ভুত প্রশান্তি আনে। বৈশাখের বিকেলে হঠাৎ ধেয়ে আসা কালো মেঘ আর ঝোড়ো হাওয়া প্রকৃতির সব ক্লান্তি ধুয়ে দেয়।",
+        "en": "Summer arrives with scorching heat, dust storms, and the fierce Nor'westers. Known as the 'Honey Month', it balances extreme dryness with the sweet aroma of mangoes and jackfruits. Cracked fields and dried-up canals define this thirsty season. Heatwaves make life slow, yet the approach of a Nor'wester brings a strange sense of relief. The sudden dark clouds and stormy winds of Baishakh afternoons wash away all of nature's fatigue."
+      },
+      "nature_details": {
+        "bn": "গাছে গাছে কৃষ্ণচূড়া, সোনালু, ও জারুল ফুলের রক্তিম ও সোনালী আভা। ডুমুর ও বট গাছে পাকা ফলের ভিড়। কাঠবেড়ালীরা রোদেলা দুপুরে ছোটাছুটি করে। পুকুর-ডোবা শুকিয়ে ছোট হয়ে আসে। বিলে-ঝিলে ফুটে থাকে পদ্ম ও শাপলা। ধূলিময় দিগন্ত আর ম্লান আকাশ। ঝোপঝাড়ে তক্ষক আর গিরগিটির আনাগোনা বেড়ে যায়। দুপুরের রোদে মাঠের ওপর মরিচিকা দেখা দেয়। বনের লতাপাতা শুকিয়ে তামাটে বর্ণ ধারণ করে।",
+        "en": "Red, golden, and purple hues of Krishnachura, Sonalu, and Jarul flowers. Squirrels stay active during sunny afternoons while banyan and fig trees bear ripe fruits. Ponds and ditches shrink under the sun. Lotus and water lilies bloom in the marshes. Dust-filled horizons and a pale sky. Increased activity of geckos and lizards in the bushes. Mirages appear on the fields in the midday sun. Forest vines dry up and turn coppery."
+      },
+      "agriculture": {
+        "bn": "বোরো ধান কাটার ধুম পড়ে মাঠ জুড়ে। আউশ ধান বোনার প্রস্তুতি চলে। তরমুজ, বাঙ্গি, ও খরমুজ তোলা হয় মাঠ থেকে। তিল ও বাদাম চাষের উপযুক্ত সময়। শাকসবজির মধ্যে পটল, ঝিঙা, ও করলার ফলন বাড়ে। কৃষকরা রোদে পুড়ে ফসল ঘরে তোলার শ্রমে ব্যস্ত থাকে। অনেক এলাকায় আখ চাষের প্রাথমিক কাজ শুরু হয়। খরা মোকাবিলায় পাম্প দিয়ে জমিতে সেচ দেওয়া এই সময়ের সাধারণ চিত্র।",
+        "en": "Busy time for harvesting Boro paddy across the fields. Preparations for sowing Aush paddy. Harvesting watermelons, muskmelons, and cantaloupes. Ideal for sesame and groundnut cultivation. Increased yield of vegetables like pointed gourd, ridge gourd, and bitter gourd. Farmers are dedicated to the labor of bringing crops home under the sun. Sugarcane cultivation begins in many areas. Pumping water to irrigate drought-stricken lands is a common sight."
+      },
+      "foods": { "bn": "পাকা আম, জাম, কাঁঠাল, লিচু, তরমুজ, বেল, তালশাঁস, জামরুল, গোলাপজাম। কাঁচা আমের ভর্তা, কাসুন্দি, পান্তা-ইলিশ, ও ঠান্ডা বেলের শরবত। তালের কাথ দিয়ে তৈরি পিঠা। আম-সত্ত্ব এবং আমের আচার তৈরির প্রধান সময়। তপ্ত দুপুরে টক ডাল আর করলা ভাজি বাঙালির প্রিয় খাবার।", "en": "Ripe Mango, Blackberry, Jackfruit, Lychee, Watermelon, Wood Apple, Ice Apple, Java Apple, Water Apple. Green mango mash, Kasundi, Panta-Ilish, and cool wood-apple sherbet. Cakes made from palm pulp. Prime time for making sun-dried mango pulp (Aamsotto) and pickles. Sour lentils and bitter gourd fry are favorites on hot afternoons." },
+      "birds": { "bn": "কোকিলের বিরতিহীন ডাক, চিল, বাজপাখি এবং পিপীকাভুক পাখির আনাগোনা। রোদের তাপে পাখিরা জলাশয়ের ধারে তৃষ্ণা মেটায়। ডাহুক আর শালিকের ছোটাছুটি বাড়ে। কালবৈশাখীর আগে আকাশে বুনো হাঁসের সারি দেখা যায়।", "en": "The continuous call of the Cuckoo, Kites, and Hawks soaring in the hot sky. Birds quench their thirst by the water bodies due to the sun's heat. Increased activity of Waterhens and Mynas. Rows of wild ducks are seen in the sky before a Nor'wester." },
+      "lifestyle": { "bn": "দুপুরে গ্রামবাংলায় তালপাতার পাখার বাতাস আর বড়ই বা আম গাছের ছায়ায় বসে পুঁথি পাঠ বা আড্ডা। পুকুরে দীর্ঘক্ষণ গোসল। ঘরে ঘরে আম-দুধ খাওয়ার ঐতিহ্য। রোদের তাপ থেকে বাঁচতে সুতির পাতলা পোশাক। গ্রাম্য কিশোররা আম কুড়ানোর প্রতিযোগিতায় মেতে ওঠে ঝড়ের পরে। রাতে উঠানে পাটি বিছিয়ে খোলা আকাশের নিচে ঘুমানোর আবেশ।", "en": "Afternoons feature palm-leaf fans and gatherings under banyan or mango trees for reading or chatting. Long baths in ponds. The tradition of eating mango with milk in every household. Thin cotton clothes to escape the heat. Village kids compete to collect fallen mangoes after a storm. The habit of sleeping on mats in the courtyard under the open sky at night." },
+      "festivals": { "bn": "পহেলা বৈশাখ (নববর্ষ), মঙ্গল শোভাযাত্রা, বৈসাবি (পার্বত্য উৎসব), জ্যৈষ্ঠের মধু উৎসব, হালখাতা ও বৈশাখী মেলা। হিন্দু ধর্মাবলম্বীদের রথযাত্রা উৎসবের সূচনা এই ঋতুতেই। গাজনের মেলা এবং চড়ক পূজা গ্রামবাংলায় বড় উৎসব।", "en": "Pahela Baishakh (Bengali New Year), Mangal Shobhajatra, Boisabi (tribal festival), Honey Month festivals, Halkhata, and village fairs. The start of the Rath Yatra festival for Hindus. Gajan fairs and Charak Puja are major rural festivals." },
+      "rural_games": { "bn": "তীব্র রোদে গাছের ছায়ায় বসে ডাংগুলি, মার্বেল বা লাটিম খেলা। কিশোরীদের পুতুল খেলার ধুম। বিকেলে ফাঁকা মাঠে হা-ডু-ডু বা কাবাডি প্র্যাকটিস। বাড়ির ভেতরে কড়ি বা লুডু খেলা।", "en": "Playing Danguli, marbles, or top-spinning under the tree shade during the peak sun. Girls enjoy playing with dolls. Ha-du-du or Kabaddi practice in empty fields in the afternoon. Indoor games like cowry shells or Ludo." },
+      "travel_tips": { "bn": "দুপুর ১২টা থেকে ৩টা সরাসরি রোদ এড়িয়ে চলুন। প্রচুর পানি, ডাবের পানি, ও স্যালাইন সাথে রাখুন। সুতির পাতলা ও হালকা রঙের পোশাক পরুন। সানস্ক্রিন ও ছাতা ব্যবহার করুন। রোদের তীব্রতা থেকে বাঁচতে পাহাড়ি ঝরনা বা ওয়াটার পার্কগুলো ভ্রমণের উপযুক্ত।", "en": "Avoid direct sun from 12 PM to 3 PM. Carry water, coconut water, and saline. Wear light cotton clothes. Use sunscreen and an umbrella. Visit mountain springs or water parks to escape the sun's intensity." },
+      "best_places": { "bn": "রাজশাহীর আমের বাগান, চাঁপাইনবাবগঞ্জ, পাহাড়ি ঝরনা যেমন খৈয়াছড়া বা নাফাকুম, ও সেন্ট মার্টিনের নীল জল।", "en": "Mango orchards in Rajshahi, Chapainawabganj, mountain springs like Khoiyachora or Nafakhum, and the blue waters of Saint Martin." },
+      "images": [
+        "https://images.pexels.com/photos/2286016/pexels-photo-2286016.jpeg",
+        "https://images.pexels.com/photos/1458671/pexels-photo-1458671.jpeg",
+        "https://images.pexels.com/photos/33044/pexels-photo-33044.jpeg",
+        "https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg"
+      ]
+    },
+    {
+      "id": "barsha",
+      "name": { "bn": "বর্ষা", "en": "Monsoon" },
+      "period": { "bn": "আষাঢ় - শ্রাবণ", "en": "Mid June - Mid August" },
+      "card_img": "https://sagir42.wordpress.com/wp-content/uploads/2019/10/61e18-rainy-wallpaper7.jpg",
+      "color": "from-blue-600/80",
+      "description": {
+        "bn": "আকাশে মেঘের ঘনঘটা আর অবিরাম বর্ষণে সজীব হয়ে ওঠে বাংলার প্রকৃতি। বর্ষা মানেই নদ-নদীর যৌবন ফিরে পাওয়া, চারিদিকে থইথই পানি আর মেঘমুক্ত মুহূর্তে রংধনুর হাসি। বৃষ্টির দিনে গ্রামবাংলার মাঠগুলো সবুজে ছেয়ে যায়, আর বনভূমি যেন এক নতুন রূপ ধারণ করে। এটি বিরহ আর প্রেমের ঋতু হিসেবেও পরিচিত। অঝোর ধারায় বৃষ্টি যখন টিনের চালে শব্দ করে, তখন গ্রামবাংলার দৃশ্য অপার্থিব মনে হয়। কদম ফুলের মিষ্টি ঘ্রাণ আর বৃষ্টির আর্দ্রতা এক মায়াবী পরিবেশ তৈরি করে।",
+        "en": "Bengal’s nature rejuvenates with dark clouds and the continuous pitter-patter of rain. Monsoon means rivers regaining their flow, overflowing wetlands, and the occasional smile of a rainbow. Fields turn into a lush green carpet, and forests wear a fresh look. Known as the season of romance, the sound of rain on tin roofs makes rural Bengal feel ethereal. The scent of Kadam flowers and the moist air create a magical atmosphere."
+      },
+      "nature_details": {
+        "bn": "কদম, কেয়া, ও ঘাসফুলের সুবাসে বাতাস ম ম করে। খাল-বিলে শাপলা, পদ্ম, ও কলমী ফুলের মেলা বসে। বৃষ্টির পানিতে চারপাশের ধুলোবালি ধুয়ে প্রকৃতি উজ্জ্বল সবুজে রূপ নেয়। গ্রামের মেঠো পথ কাঁদা-পানিতে একাকার। ভেক বা ব্যাঙের ডাক এই সময়ের নিত্যদিনের সঙ্গী। বৃষ্টির পর ঘাসের ওপর ছোট ছোট লাল মখমল পোকা দেখা যায়। নদীগুলো পলি মাটি বয়ে এনে দুই কুল প্লাবিত করে। বিকেলের আকাশে সাতরঙা রংধনু এক অপূর্ব শোভা বর্ধন করে।",
+        "en": "The air is filled with the scent of Kadam and Keya flowers. Water lilies, lotuses, and water bindweed bloom in abundance. Rain washes away the dust, leaving the world in a vivid shade of green. Village dirt roads are a mix of mud and water. The croaking of frogs is a constant companion. Red velvet rain bugs appear on the grass. Rivers carry silt and overflow their banks. The seven-colored rainbow in the afternoon sky is a sight to behold."
+      },
+      "agriculture": {
+        "bn": "রোপা আমন ধান লাগানোর প্রধান মৌসুম। পাট কাটার প্রস্তুতি চলে। মাঠের চারিদিকে নতুন ঘাসের সমারোহে পশুদের খাদ্যপ্রাচুর্য দেখা যায়। কৃষকরা পানির সেচের জন্য বৃষ্টির ওপর নির্ভর করে। আউশ ধান কাটার কাজও এই ঋতুতেই শুরু হয়। খাল-বিলে মাছের পোনা ছাড়ার এটাই শ্রেষ্ঠ সময়। পাটের জাঁক দেওয়া বা পচানোর দৃশ্য গ্রামবাংলার অতি পরিচিত দৃশ্য।",
+        "en": "Prime season for planting Aman paddy. Preparations for harvesting jute. Abundant fresh grass for cattle. Farmers rely on rain for irrigation. The harvest of Aush paddy also begins. This is the best time for releasing fish fry into wetlands. The sight of retting jute in water is a familiar scene in rural Bengal."
+      },
+      "foods": { "bn": "গরম খিচুড়ি, বেগুন ভাজা, ইলিশ মাছ ভাজা বা সর্ষে ইলিশ বৃষ্টির দিনের প্রধান খাবার। এছাড়া লটকন, জামরুল, পেয়ারা, ও আমড়া। বৃষ্টির দিনে ভাজা মুড়ি আর চানাচুর। বর্ষার নতুন পানির ছোট মাছের ঝোল বাঙালির প্রিয়। কচি তালের শাঁস এবং আনারস এই সময়ের বিশেষ ফল।", "en": "Hot Khichuri, fried eggplant, Hilsa fish fry or mustard Hilsa are rainy day delicacies. Fruits include Lotkon, Java Apple, Guava, and Hog Plum. Fried puffed rice and snacks are common. Small fish curry from fresh monsoon water is a favorite. Ice apple and pineapple are special fruits of this time." },
+      "birds": { "bn": "মাছরাঙা, পানকৌড়ি, বক এবং ডাহুক পাখির অবাধ বিচরণ দেখা যায় জলাশয়ের ধারে। কাদা-পানিতে মাছ ধরার জন্য তারা ব্যস্ত থাকে। বৃষ্টির সময় বকের সারি যখন উড়ে যায়, তখন আকাশটা ছবির মতো লাগে। বৃষ্টির শব্দে কোকিল নীরব হলেও ডাহুকের ডাক বেড়ে যায়।", "en": "Kingfishers, Cormorants, Herons, and Waterhens active in catching fish near water bodies. Rows of herons flying through the rain make the sky look like a painting. While the cuckoo goes silent, the calls of the waterhen increase." },
+      "lifestyle": { "bn": "নৌকাই হয়ে ওঠে যাতায়াতের প্রধান বাহন গ্রামবাংলায়। জাল ফেলে মাছ ধরার ধুম পড়ে গ্রামজুড়ে। বৃষ্টির দুপুরে ঘরের বারান্দায় বসে আড্ডা চলে। গ্রাম্য কিশোরদের কাদা-পানিতে ফুটবল খেলার ধুম। হাট-বাজারে যাওয়ার জন্য ছাতা বা তালপাতার মাথাল ব্যবহার করা হয়। বৃষ্টির দিনে ঘরে বসে নকশী কাঁথা সেলাই করার ঐতিহ্য আজও ম্লান হয়নি।", "en": "Boats become the primary mode of travel. Community fishing with nets is common. People chat on porches during rainy afternoons. Village kids enjoy playing football in the mud. Umbrellas or palm-leaf hats (Mathal) are used to go to markets. The tradition of sewing Nokshi Kantha indoors on rainy days remains alive." },
+      "festivals": { "bn": "রথযাত্রা, ঐতিহ্যবাহী নৌকাবাইচ উৎসব, বর্ষা বরণ ও বৃক্ষরোপণ উৎসব। কদম ফুল নিয়ে শিশু-কিশোরদের আনন্দ। বৃষ্টির গান আর রবীন্দ্র-নজরুলের বর্ষা বন্দনা অনুষ্ঠান। হিজল ও কদম উৎসব অনেক জায়গায় পালিত হয়।", "en": "Rath Yatra, traditional boat racing festivals, welcoming Monsoon, and tree plantation festivals. Children's joy with Kadam flowers. Musical events featuring rain songs. Hizal and Kadam festivals are celebrated in various places." },
+      "rural_games": { "bn": "বৃষ্টির দিনে ঘরের দাওয়ায় বসে কড়ি খেলা বা লুডু। কাদা-মাটিতে হা-ডু-ডু বা গোল্লাছুট। কিশোরদের পানিতে ঝাঁপ দেওয়া বা ডুব সাঁতার খেলার প্রতিযোগিতা।", "en": "Playing Ludo or cowry shell games on the porch. Playing Ha-du-du or Gollachut in the mud. Competitions of diving and swimming among village kids." },
+      "travel_tips": { "bn": "ওয়াটারপ্রুফ ব্যাগ, রেইনকোট, ও ছাতা অবশ্যই সাথে রাখুন। যাতায়াতের জন্য ভালো মানের নৌকা বা ওয়াটার ট্যাক্সি নির্বাচন করুন। পাহাড়ি এলাকায় ভূমিধস সম্পর্কে সতর্ক থাকুন। স্যাঁতস্যাঁতে আবহাওয়া থেকে বাঁচতে প্রয়োজনীয় ঔষধ রাখুন। বর্ষার সৌন্দর্য উপভোগ করতে নৌকা ভ্রমণ সেরা।", "en": "Must carry waterproof bags, raincoats, and an umbrella. Choose high-quality boats or water taxis. Be cautious of landslides in hilly areas. Carry necessary medicines. A boat trip is the best way to enjoy monsoon beauty." },
+      "best_places": { "bn": "সিলেটের রাতারগুল সোয়াম্প ফরেস্ট, টাঙ্গুয়ার হাওর, বিছনাকান্দি, ও বান্দরবানের মেঘের সমুদ্র।", "en": "Ratargul Swamp Forest, Tanguar Haor, Bisnakhandi in Sylhet, and the sea of clouds in Bandarban." },
+      "images": [
+        "https://images.pexels.com/photos/2631613/pexels-photo-2631613.jpeg",
+        "https://images.pexels.com/photos/1463530/pexels-photo-1463530.jpeg",
+        "https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg",
+        "https://images.pexels.com/photos/1100754/pexels-photo-1100754.jpeg"
+      ]
+    },
+    {
+      "id": "sharat",
+      "name": { "bn": "শরৎ", "en": "Autumn" },
+      "period": { "bn": "ভাদ্র - আশ্বিন", "en": "Mid August - Mid October" },
+      "card_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-nQlCYt5jtwdonY4BgXc6VB3qd21Aqi4Ng&s",
+      "color": "from-sky-400/80",
+      "description": {
+        "bn": "শরৎ মানেই নীল আকাশে সাদা মেঘের ভেলা আর নদীর তীরের কাশফুলের দোলা। ভোরের শিশিরভেজা শিউলি ফুলের গন্ধে এক মায়াবী আবহের সৃষ্টি হয়। বর্ষার বিদায়ের পর আকাশ পরিষ্কার হয়ে যায় এবং প্রকৃতি এক স্নিগ্ধ রূপ ধারণ করে। এটি বাংলার সবচেয়ে শান্ত ও মোহনীয় ঋতু। রাতে জ্যোৎস্নার আলোয় প্রকৃতি যেন রূপকথার মতো মনে হয়। নদীর স্বচ্ছ জলে আকাশের প্রতিফলন শরতের এক অনন্য বৈশিষ্ট্য। কাশবনের মধ্য দিয়ে বয়ে চলা বাতাস হৃদয়ে এক অদ্ভুত প্রশান্তি আনে।",
+        "en": "White clouds sailing in a blue sky and Catkins by the river define Autumn. The scent of dew-drenched Night-flowering Jasmine creates a magical atmosphere. Nature looks serene and clear. Moonlight at night makes nature feel like a fairytale. The reflection of the sky in clear river waters is a unique trait. The breeze flowing through catkin fields brings immense peace."
+      },
+      "nature_details": {
+        "bn": "শিউলি, কামিনী, ও হাসনাহেনার গন্ধে রাত হয়ে ওঠে মোহনীয়। নদীর দুই পাড়ে মাইলের পর মাইল সাদা কাশবন বাতাসের তালে দোলে। ভোরে ঘাসের ডগায় বিন্দু বিন্দু শিশির। মাঠের পর মাঠ সবুজ ধানক্ষেত। বিলে ফুটে থাকে পদ্ম ও শাপলা। রোদের তেজ কমে এসে রোদ হয় রুপালি। ভাদ্রের তাল পাকা রোদ আর আশ্বিনের হিমেল বাতাস শীতের পূর্বাভাস দেয়। গোধূলির আকাশ এই সময় সবচেয়ে রঙিন দেখায়।",
+        "en": "Scent of Shiuli, Kamini, and Night-flowering Jasmine make the nights enchanting. Miles of white Catkin fields sway with the wind. Sparkling dewdrops at dawn. Lush green paddy fields. Ponds bear lotuses and water lilies. The sunlight turns silvery. The ripening sun of Bhadra and the cool breeze of Ashwin hint at winter. The twilight sky is most colorful during this time."
+      },
+      "agriculture": {
+        "bn": "রোপা আমন ধানের ক্ষেতে নিড়ানি ও সেচ। ধানের ক্ষেতে থোড় আসা শুরু হয়। তালের রস থেকে পিঠা তৈরির জন্য তাল সংগ্রহ। কৃষকরা নতুন ফসলের জন্য জমি তৈরি শুরু করে। বিলে জলজ সবজি ও শাপলা তোলার ব্যস্ততা। রবি শস্যের আগাম চাষ শুরু হয়। ধান গাছগুলো বাতাসে ঢেউ খেলে এক অপরূপ দৃশ্য তৈরি করে।",
+        "en": "Weeding and irrigation in Aman paddy fields. Paddy stalks begin to swell. Collecting palms for traditional cakes. Farmers begin preparing land for new crops. Busy picking water lilies and aquatic vegetables. Early cultivation of winter crops begins. Paddy plants waving in the breeze create a stunning view."
+      },
+      "foods": { "bn": "তালের পিঠা, নারকেলের নাড়ু, ও কচি শসা। এই সময় নতুন তালের রসে তৈরি মিষ্টির ব্যাপক চল রয়েছে। আতা ও আমলকী। ভাদ্রের পাকা তালের গন্ধে গ্রাম্য রান্নাঘরগুলো ম ম করে। শরতের ডাব আর কচি তালের শাঁস স্বাস্থ্যের জন্য উপকারী। মুড়ি আর তালের বড়া এই সময়ের প্রিয় বিকেলের নাস্তা।", "en": "Palm cakes, Coconut sweets (Naru), and fresh cucumber. Sweets made of fresh palm juice are very popular. Custard Apple and Gooseberry. Village kitchens are filled with the aroma of ripe palms. Green coconut water and ice apple are refreshing. Puffed rice with palm fritters is a favorite afternoon snack." },
+      "birds": { "bn": "বুনো হাঁস, খঞ্জন, ও সাদা বকের সারি। পরিযায়ী পাখিদের আগমনের প্রাথমিক সংকেত। বুনো হাঁসের কিচিরমিচির বাড়ে। বিলে পানকৌড়ির ডুব সাঁতার দেখার মতো দৃশ্য। সাদা বক যখন নীল আকাশের বুক চিরে উড়ে যায়, তখন এক চমৎকার বৈপরীত্য তৈরি হয়।", "en": "Wild ducks, Wagtails, and rows of white Herons. Initial signs of migratory birds' arrival. Increased chirping of wild ducks. Cormorants diving in marshes is a common sight. White herons flying across the blue sky create a beautiful contrast." },
+      "lifestyle": { "bn": "নদীর ধারে কাশফুল দেখতে যাওয়া। সাদা ও আকাশী রঙের পোশাকের ব্যবহার বাড়ে। জ্যোৎস্না রাতে উঠানে মাদুর পেতে আড্ডা। গ্রামীণ কিশোররা বিলে শাপলা তুলতে ব্যস্ত থাকে। উৎসবের আমেজ ঘরে ঘরে। হিন্দু ধর্মাবলম্বীদের ঘরে ঘরে নতুন কাপড় কেনার আনন্দ। নদীর পাড়ে সূর্যাস্ত দেখা শরতের অন্যতম বিলাসিতা।", "en": "Walking by the river to see catkins. Increased use of white and blue clothing. Gathering on mats in courtyards on moonlit nights. Rural kids picking water lilies. Festival vibes everywhere. Joy of buying new clothes in Hindu households. Watching the sunset by the river is a true luxury." },
+      "festivals": { "bn": "শারদীয়া দুর্গাপূজা, লক্ষ্মীপূজা, ও তালের পিঠা উৎসব। হিন্দু ধর্মাবলম্বীদের প্রধান উৎসবগুলি এই ঋতুতেই অনুষ্ঠিত হয়। বিশ্বকর্মা পূজা শরতের আরেকটি আকর্ষণ। গ্রামবাংলায় যাত্রাপালার আয়োজন শুরু হয় এই সময় থেকেই।", "en": "Durga Puja, Lakshmi Puja, and Palm cake festivals. Major Hindu festivals occur now. Vishwakarma Puja is another attraction. Traditional Jatra performances start being organized in rural areas." },
+      "rural_games": { "bn": "খাঁ খাঁ দুপুরে গাছের ছায়ায় বসে ডাংগুলি বা লাটিম ঘোরানো। কিশোরীদের পুতুল খেলা। বিকেলে ফাঁকা মাঠে হা-ডু-ডু বা বৌ-চি খেলা। নদীতে ছোট ডিঙি নৌকা নিয়ে পাল তোলা প্রতিযোগিতার মহড়া।", "en": "Playing Danguli or top-spinning under tree shade. Girls playing with dolls. Playing Ha-du-du or Bou-chi in open fields. Practice of small boat racing with sails in the river." },
+      "travel_tips": { "bn": "নীল আকাশ পাওয়ার জন্য আবহাওয়া পূর্বাভাস দেখে ভ্রমণে বের হন। রোদের তীব্রতা থেকে বাঁচতে সানগ্লাস ও ছাতা ব্যবহার করুন। কাশফুলের সাথে ছবি তোলার সময় নদী তীরের ঢালু মাটি সম্পর্কে সাবধানে থাকুন। নদীর ধারে ঘুরতে যাওয়ার জন্য বিকেল বেলা সবচেয়ে আরামদায়ক।", "en": "Check weather forecasts for clear skies. Use sunglasses and an umbrella. Be cautious of slippery riverbanks while taking photos. Afternoons are the most comfortable time for riverbank walks." },
+      "best_places": { "bn": "পদ্মার পাড় (রাজশাহী বা মাওয়া), দিয়াবাড়ি (ঢাকা), ও সুন্দরবনের কচিখালী। সেন্ট মার্টিন ভ্রমণের উপযুক্ত সময় শুরু হয়।", "en": "Banks of Padma, Diyabari, and Kochikhali in Sundarbans. Ideal time to start visiting Saint Martin begins." },
+      "images": [
+        "https://images.pexels.com/photos/673857/pexels-photo-673857.jpeg",
+        "https://images.pexels.com/photos/1119075/pexels-photo-1119075.jpeg",
+        "https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg",
+        "https://images.pexels.com/photos/2101187/pexels-photo-2101187.jpeg"
+      ]
+    },
+    {
+      "id": "hemanta",
+      "name": { "bn": "হেমন্ত", "en": "Late Autumn" },
+      "period": { "bn": "কার্তিক - অগ্রহায়ণ", "en": "Mid October - Mid December" },
+      "card_img": "https://www.bssnews.net/assets/news_photos/2025/11/23/image-334827-1763894190.jpg",
+      "color": "from-yellow-600/80",
+      "description": {
+        "bn": "হেমন্ত মানেই নবান্নের ঋতু আর শীতের পূর্বাভাস। মাঠে মাঠে সোনালী ধানের ওপর যখন সকালের কুয়াশা পড়ে, তখন এক অদ্ভুত শান্ত পরিবেশ তৈরি হয়। কৃষকের মুখে নবান্নের হাসি ফুটে ওঠে যখন তারা নতুন ধান ঘরে তোলে। হেমন্তের বিকেলে আকাশ কিছুটা মলিন থাকে, আর সন্ধ্যার পর থেকেই হিমেল হাওয়া শীতের জানান দেয়। এটি উৎসব ও প্রাচুর্যের ঋতু। বাংলার মেঠো পথ ধরে হাঁটলে নতুন ধানের সুবাস মন ভরিয়ে দেয়। কুয়াশার চাদরে ঢাকা ভোরগুলো এক রহস্যময় সুন্দর নিয়ে আসে।",
+        "en": "Hemanta is the season of harvest and a precursor to winter. A peaceful atmosphere is created when morning mist settles over golden paddy fields. Farmers celebrate 'Nabanna' as they bring home the new crops. Chilly winds after sunset signal the arrival of winter. Walking along village paths, the scent of fresh paddy fills the soul. Misty dawns bring a mysterious beauty."
+      },
+      "nature_details": {
+        "bn": "হলুদ বা সোনালী ধানক্ষেত। সকালবেলা ঘাসের ওপর শিশির কণা চিকচিক করে। ছাতিম ফুলের তীব্র গন্ধ গ্রামবাংলার বাতাসকে ভারি করে তোলে। কুয়াশাচ্ছন্ন ভোর আর ম্লান সূর্য। কার্তিক মাসের সন্ধ্যাবেলাটি খুব শান্ত ও নিঝুম হয়। পাতাঝরা গাছগুলোর কঙ্কালসার রূপ। সরিষা ক্ষেতে হলুদ ফুলের সমারোহ শুরু হয়। বিকেলের রোদ সোনার মতো ঝলমলে দেখায়। দিঘির জলে শিশির পড়ার টুপটাপ শব্দ শোনা যায় নিঝুম রাতে।",
+        "en": "Golden paddy fields. Sparkling dewdrops on grass. The strong scent of Chatim flowers. Misty mornings and a pale sun. Quiet evenings during Kartik. Leafless trees appear. Yellow mustard blossoms start appearing. Afternoon sun looks like shimmering gold. The sound of dewdrops falling on pond water can be heard in still nights."
+      },
+      "agriculture": {
+        "bn": "ধান কাটার মহোৎসব মাঠ জুড়ে। রবি শস্যের বীজ বপন করা হয়। আলু, সরিষা, ও তিল চাষের প্রস্তুতি। নতুন ধানের চাল থেকে পিঠা ও পায়েস তৈরির ধুম। কৃষকরা ধান সেদ্ধ ও শুকানোর কাজে ব্যস্ত থাকে। বাড়ির উঠানে ধানের মাড়াই আর গোলার দৃশ্য এই সময়ের প্রাণ। খেজুর গাছ থেকে রস সংগ্রহের জন্য হাঁড়ি বাঁধার কাজ শুরু হয়। মাসকলাই ডাল আর রবি শস্যের ব্যস্ততা তুঙ্গে।",
+        "en": "The grand harvest festival begins. Sowing winter crops. Preparing for potato, mustard, and sesame cultivation. Making cakes and rice pudding from new rice. Farmers busy boiling and drying paddy. Threshing and storing grain in granaries (Gola) is the soul of this time. Preparations for collecting date juice begin. High activity with pulses and winter crops."
+      },
+      "foods": { "bn": "নতুন ধানের চালের ভাত, মুড়ি, খৈ, ও গুড়। ঘরে ঘরে পায়েস ও হরেক রকম পিঠা। নতুন চালের গুঁড়ো দিয়ে আল্পনা। খেজুরের রস ও গুড়। টাটকা শীতকালীন সবজি যেমন ফুলকপি, বাঁধাকপি, ও মটরশুঁটি। এই সময়ের নারিকেল নাড়ু আর তিলের খাজা খুব জনপ্রিয়। রাতে হাঁসের মাংস আর চিতই পিঠা খাওয়ার রীতি গ্রামবাংলায় বেশ পুরনো।", "en": "New Harvest Rice, puffed rice, popped rice, and jaggery. Homemade rice pudding and cakes. Alpona with rice paste. Date juice and jaggery. Fresh winter vegetables like cauliflower, cabbage, and peas. Coconut sweets and sesame snacks are popular. The tradition of having duck meat with rice cakes at night is old in rural Bengal." },
+      "birds": { "bn": "দোয়েল, শালিক, এবং বাবুই পাখির কিচিরমিচির বাড়ে। ধান কাটার পর মাঠগুলোতে চড়ুই পাখির মেলা বসে। বাবুই পাখির নিপুণ বাসা নির্মাণ এই ঋতুর প্রধান আকর্ষণ। ফিঙে পাখির কসরত ধানক্ষেতের ওপর দেখার মতো হয়। পরিযায়ী পাখিরা আসতে শুরু করায় জলাশয়গুলো মুখর হয়।", "en": "Increased chirping of Magpie Robins, Mynas, and Weaver birds. Sparrows gather in harvested fields. Weaver birds building nests are a major attraction. The acrobatics of Drongos over paddy fields is a sight to see. Migratory birds begin to fill the wetlands with noise." },
+      "lifestyle": { "bn": "নবান্নের উৎসবে মেতে ওঠে গ্রামবাংলা। নতুন চালের গুঁড়ো দিয়ে আল্পনা আঁকা হয় বাড়ির আঙিনায়। ভোরে কুয়াশার মাঝে খেজুর গাছ থেকে রস সংগ্রহের প্রস্তুতি শুরু হয়। রাতে হালকা ঠান্ডা অনুভূত হতে পারে, চাদর সাথে রাখুন। কৃষাণীরা ধান সেদ্ধ ও শুকানোতে ব্যস্ত। পাড়ায় পাড়ায় বিয়ের অনুষ্ঠানের ধুম পড়ে এই সময় থেকে।", "en": "Rural Bengal celebrates Nabanna. Alpona drawn in courtyards. Preparations for collecting date juice in misty mornings. Carry a light shawl for chilly nights. Women are busy drying paddy. Wedding season begins in neighborhoods from this time." },
+      "festivals": { "bn": "নবান্ন উৎসব, নতুন চালের পিঠা উৎসব, ও কার্তিক পূজা। নতুন ফসলের মেলা। পৌষ মেলা ও সাকরাইন উৎসবের সূচনা এই ঋতুতেই। হিন্দু সম্প্রদায়ের শ্যামাপূজা ও দীপাবলি এই সময়ের বড় উৎসব। রাস মেলা অনেক জায়গায় মহাসমারোহে পালিত হয়।", "en": "Nabanna, New Rice Cake Festival, and Kartik Puja. New harvest fairs. Start of Poush Mela. Shyama Puja and Diwali are major festivals. Ras Mela is celebrated with grand arrangements in many places." },
+      "rural_games": { "bn": "ধান কাটার পর ফাঁকা মাঠে হা-ডু-ডু বা কাবাডি খেলা। কিশোরদের ঘুড়ি ওড়ানো। মার্বেল ও লাটিম খেলা। রাতে ব্যাডমিন্টন খেলার কোট তৈরির প্রস্তুতি শুরু হয়। জোছনা রাতে দাঁড়িয়াবান্ধা খেলার আনন্দ অন্যরকম।", "en": "Playing Ha-du-du or Kabaddi in empty fields. Flying kites. Playing marbles and tops. Preparing badminton courts at night. The joy of playing Dariabandha on moonlit nights is special." },
+      "travel_tips": { "bn": "রাতের দিকে হালকা শীত অনুভূত হতে পারে, তাই সাথে পাতলা চাদর রাখুন। গ্রাম্য জীবনযাত্রা দেখার জন্য এটিই শ্রেষ্ঠ সময়। গ্রামীণ মেলাগুলো ভ্রমণের উপযুক্ত। কুয়াশার কারণে ভ্রমণে সময় বেশি লাগতে পারে। ভোরের সতেজ বাতাস উপভোগ করতে তাড়াতাড়ি ঘুম থেকে উঠুন।", "en": "Carry a light shawl for chilly nights. Best time to observe rural lifestyle. Visit village fairs. Travel may be delayed by fog. Wake up early to enjoy the fresh morning air." },
+      "best_places": { "bn": "কুষ্টিয়া, নাটোর, ও ময়মনসিংহের গ্রামীণ জনপদ। সুন্দরবনের কচিখালী। সেন্ট মার্টিন ও কুয়াকাটা ভ্রমণে শ্রেষ্ঠ সময়।", "en": "Rural areas of Kushtia, Natore, and Mymensingh. Kochikhali in Sundarbans. Ideal time for Saint Martin and Kuakata." },
+      "images": [
+        "https://images.pexels.com/photos/2886937/pexels-photo-2886937.jpeg",
+        "https://images.pexels.com/photos/39511/pexels-photo-39511.jpeg",
+        "https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg",
+        "https://images.pexels.com/photos/235725/pexels-photo-235725.jpeg"
+      ]
+    },
+    {
+      "id": "sheet",
+      "name": { "bn": "শীত", "en": "Winter" },
+      "period": { "bn": "পৌষ - মাঘ", "en": "Mid December - Mid February" },
+      "card_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAqwdnF7OC08ipZ7PaWiXEXFd9Y54CVIab4A&s",
+      "color": "from-cyan-600/80",
+      "description": {
+        "bn": "ঘন কুয়াশা আর হাড়কাঁপানো ঠান্ডার ঋতু শীত। সকালে খেজুর রসের হাড়ি আর রোদে বসে ভাপা পিঠা খাওয়ার আনন্দ অতুলনীয়। উত্তরের জেলাগুলোতে শীতের প্রকোপ বেশি থাকে, যেখানে হিমালয় থেকে আসা ঠান্ডা বাতাস বাংলার জনপদে শীতের আমেজ ছড়িয়ে দেয়। এটি ভ্রমণ আর বনভোজনের আদর্শ ঋতু। পিঠাপুলি আর মেলা সেই কষ্ট ভুলিয়ে দেয়। কুয়াশার চাদরে ঢাকা প্রকৃতি যেন এক দীর্ঘ ঘুমে মগ্ন থাকে। রাতে আগুন পোহানোর উত্তাপ আর মেঠো পথের শিশির ভেজা ঠান্ডা এক অদ্ভুত বৈপরীত্য তৈরি করে।",
+        "en": "Winter is the season of dense fog and bone-chilling cold. Rural Bengal gets wrapped in a blanket of white mist. The joy of having date juice and eating steamed rice cakes in the morning sun is incomparable. Chilly winds from the Himalayas sweep across Bengal. It’s the perfect time for travel and picnics. Nature seems to be in a long slumber under the mist. The warmth of wood fires at night and the dew-drenched cold of village paths create a striking contrast."
+      },
+      "nature_details": {
+        "bn": "হলুদ সরিষা ক্ষেতের দিগতজোড়া সমারোহ। কুয়াশার কারণে দূরের জিনিস ঝাপসা দেখায়। পাতাঝরা গাছগুলোর কঙ্কালসার রূপ। সরিষা ফুল ও গাঁদা ফুলের মেলা। দুপুরের রোদ খুব মিষ্টি ও আরামদায়ক লাগে। ভোরবেলা খেজুর গাছ থেকে রস সংগ্রহের ব্যস্ততা। কুয়াশাচ্ছন্ন ভোর আর ম্লান সূর্য। শীতের বিকেলে দিগন্তে টকটকে লাল সূর্য ডোবার দৃশ্য অতি মনোরম। ঝোপঝাড়ে ঝিঁঝিঁ পোকার ডাক রাতে স্পষ্ট শোনা যায়।",
+        "en": "Horizons of yellow mustard fields. Vision is blurred by fog. Leafless trees. Enduring mustard and marigold fields. Afternoon sun is soothing. Preparations for collecting date juice begin. The sight of the deep red sun setting on the horizon is lovely. Chirping of crickets is clearly heard in the bushes at night."
+      },
+      "agriculture": {
+        "bn": "শীতকালীন সবজি ও সরিষা চাষ। বোরো ধান রোপণের কাজ শুরু হয় মাঠ জুড়ে। শীতের রবি শস্য তোলা হয়। কৃষকরা ঠান্ডা থেকে ফসল রক্ষার চেষ্টা করে। বোরো ক্ষেতে সেচ ও নিড়ানি। আলু তোলা আর টমেটো পাকার সময়। তামাক ও ডাল জাতীয় ফসলের চাষ অনেক জায়গায় দেখা যায়। শীতের ভোরে কৃষক ও কৃষি শ্রমিকের মাঠে যাওয়ার দৃশ্য এক সংগ্রামী জীবনের পরিচয় দেয়।",
+        "en": "Winter vegetables and mustard cultivation. Sowing Boro paddy. Harvesting winter crops. Farmers protect crops from the cold. Weeding and irrigation in Boro fields. Time to harvest potatoes and tomatoes. Cultivation of tobacco and pulses. Farmers heading to fields in the winter dawn reflect a life of struggle."
+      },
+      "foods": { "bn": "ভাপা, চিতই, পাটিসাপটা, দুধচিতই পিঠা। খেজুরের রস, গুড়, কমলা, ও কুল। টাটকা শীতকালীন সবজি যেমন ফুলকপি, বাঁধাকপি, শিম, মুলা, ও গাজর। সকালের রোদে বসে গরম মুড়ি আর খেজুর গুড়। রাতে ধোঁয়া ওঠা হাঁসের মাংসের তরকারি। সরিষার শাক আর গরম ভাত বাঙালির শীতকালীন প্রধান আরামের খাবার।", "en": "Vapa, Chitoi, Patishapta, and Milk Chitoi Pitha. Date juice, jaggery, oranges, and plums. Fresh vegetables like cauliflower, cabbage, beans, radish, and carrots. Hot puffed rice with date jaggery in the morning sun. Steaming duck meat curry at night. Mustard greens and hot rice are winter comfort foods." },
+      "birds": { "bn": "হাজার হাজার মাইল দূর থেকে আসা অতিথি পাখিদের কলতানে মুখর হয় হাইল হাওর, টাঙ্গুয়ার হাওর, ও জাহাঙ্গীরনগর বিশ্ববিদ্যালয় এলাকা। পরিযায়ী পাখিদের আগমন বেড়ে যায়। লালচে বুকওয়ালা বা বালি হাঁসরা বিলের জলে খেলা করে। কুয়াশার মধ্যে পাখির ডানা ঝাপটানোর শব্দ এক নিস্তব্ধ মায়ার সৃষ্টি করে।", "en": "Wetlands like Hail Haor, Tanguar Haor, and Jahangirnagar University come alive with migratory birds. Red-breasted geese and wild ducks play in the waters. The sound of birds flapping wings in the fog creates a silent magic." },
+      "lifestyle": { "bn": "সকালে খড়কুটো জ্বালিয়ে আগুন পোহানো। রঙিন চাদর, সোয়েটার, ও মাফলারের ব্যবহার। রাত বাড়লে ব্যাডমিন্টন খেলার দৃশ্য সর্বত্র। পৌষ মেলা ও বনভোজনের আনন্দ। ভোরে খেজুর রস সংগ্রহের ব্যস্ততা। শীতের রোদে বসে পিঠা খাওয়া। রাতে বড়দের মুখে রূপকথার গল্প শোনার আমেজ। লেপ-কম্বলের ওম আর কুয়াশার ভোরে অলস সময় কাটানো।", "en": "Warming up by straw fires. Colorful shawls, sweaters, and mufflers. Badminton matches at night. Picnics and fairs. Date juice collection at dawn. Eating pitha in the sun. Hearing fairytales from elders at night. The warmth of quilts and lazy mornings in the mist." },
+      "festivals": { "bn": "পৌষ সংক্রান্তি (সাকরাইন), পিঠা উৎসব, অমর একুশে বইমেলা, ও গ্রাম্য মেলা। বিশ্ব ইজতেমা এই ঋতুতেই অনুষ্ঠিত হয়। বাউল মেলা আর সুফী উৎসবের আসর বসে অনেক জায়গায়। সরস্বতী পূজায় হলুদ শাড়িতে কিশোরীদের সাজ শরতের মতো সুন্দর।", "en": "Poush Sankranti (Shakrain), Pitha Festival, Amar Ekushey Book Fair, and village fairs. World Ijtema is held. Baul fairs and Sufi festivals are organized. Girls in yellow sarees for Saraswati Puja is a beautiful sight." },
+      "rural_games": { "bn": "রাত জেগে পাড়ায় পাড়ায় ব্যাডমিন্টন টুর্নামেন্ট। কিশোরদের ঘুড়ি ওড়ানো (সাকরাইন)। হা-ডু-ডু খেলা। কুয়াশাচ্ছন্ন বিকেলে কানামাছি বা গোল্লাছুট খেলার দৃশ্য। মাঠের এক কোণে ছোটদের চড়িভাতি বা বনভোজন।", "en": "Neighborhood badminton tournaments. Kites flying during Sakrain. Ha-du-du matches. Playing Kanamachi or Gollachut on misty afternoons. Small-scale picnics arranged by kids in field corners." },
+      "travel_tips": { "bn": "ভারী শীতের কাপড়, উলের টুপি, ও ময়েশ্চারাইজার সাথে রাখুন। কুয়াশার কারণে ভ্রমণে সময় বেশি লাগতে পারে। সেন্ট মার্টিন ও সুন্দরবন ভ্রমণের শ্রেষ্ঠ সময়। কুয়াশায় গাড়ি চালানোর সময় ফগ লাইট ব্যবহার করুন। গরম পানি পান করার চেষ্টা করুন।", "en": "Carry heavy winter clothes, woolen caps, and moisturizer. Travel may be delayed by fog. Best time for Saint Martin and Sundarbans. Use fog lights while driving. Try to drink warm water." },
+      "best_places": { "bn": "শ্রীমঙ্গলের চা বাগান, সেন্ট মার্টিন দ্বীপ, সুন্দরবন, সাজেক ভ্যালি, ও কুয়াকাটা।", "en": "Tea gardens of Sreemangal, Saint Martin's Island, Sundarbans, Sajek Valley, and Kuakata." },
+      "images": [
+        "https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg",
+        "https://images.pexels.com/photos/1102912/pexels-photo-1102912.jpeg",
+        "https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg",
+        "https://images.pexels.com/photos/688660/pexels-photo-688660.jpeg"
+      ]
+    },
+    {
+      "id": "basanta",
+      "name": { "bn": "বসন্ত", "en": "Spring" },
+      "period": { "bn": "ফাল্গুন - চৈত্র", "en": "Mid February - Mid April" },
+      "card_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ovba1w0OXvbICIJw0tgi6oItPRZqSxi9aQ&s",
+      "color": "from-pink-500/80",
+      "description": {
+        "bn": "ঋতুরাজ বসন্তের আগমনে প্রকৃতি ফিরে পায় তার হারানো যৌবন। শীতের জীর্ণতা ঝরিয়ে গাছে গাছে গজায় নতুন কচি পাতা। শিমুল, পলাশ আর অশোকের লাল রঙে বনভূমি যেন আগুনরাঙা হয়ে ওঠে। কোকিলের কুহুতানে মানুষের মন ব্যাকুল হয়। আবহাওয়া নাতিশীতোষ্ণ থাকে বলে এটি উৎসব উদযাপনের শ্রেষ্ঠ সময়। দখিনা বাতাসে ফুলের গন্ধ আর মৌমাছির গুঞ্জন এক স্বপ্নিল পরিবেশ তৈরি করে। প্রকৃতির এই পুনর্জন্ম মানুষকে নতুন করে বাঁচার প্রেরণা দেয়।",
+        "en": "Nature regains its youth with the arrival of Spring, the King of Seasons. Trees sprout fresh leaves. Forests turn fiery red with Shimul and Palash flowers. The Cuckoo’s song fills the heart with longing. The temperate weather is best for celebrations. Scent of flowers in the southern breeze and humming of bees create a dreamlike atmosphere. Nature's rebirth inspires people to live anew."
+      },
+      "nature_details": {
+        "bn": "শিমুল, পলাশ, ও অশোক ফুলের মেলা। আম্রমঞ্জরীর গন্ধে বাতাস মাতাল থাকে। চারদিকে নতুন কচি পাতা আর সবুজ ধানক্ষেত। রোদ মিষ্টি লাগে। বেলী ও জুই ফুলের সুবাস। বসন্তের দখিনা বাতাস। বসন্তের রং শিমুল-পলাশ। আমের মুকুল। প্রজাপতি আর মৌমাছিদের ব্যস্ততা বাড়ে। নদীর জল কমে এসে শান্ত হয়ে বয়। বিকেলের আকাশ নীল ও স্বচ্ছ থাকে।",
+        "en": "Shimul, Palash, and Ashok flowers. Mango blossoms intoxicate the air. Fresh leaves and green fields. Soothing sun. Scent of Belly and Jui flowers. Southern breeze. Butterflies and bees become active. Rivers flow gently with low water. The afternoon sky remains blue and clear."
+      },
+      "agriculture": {
+        "bn": "বোরো ধানের ক্ষেতে নিড়ানি ও সেচ। গ্রীষ্মকালীন সবজি বোনার প্রস্তুতি মাঠ জুড়ে। মাঠগুলোতে নতুন ফসলের বোনার ব্যস্ততা। সরিষা তোলা হয়। পেঁয়াজ ও রসুন চাষের কাজ চলে। তিল চাষের জন্য জমি তৈরি করা হয়। আমের মুকুলে স্প্রে করা আর বাগান পরিচর্যার কাজ চলে। বোরো ধান যখন সবুজে মাঠ ঢেকে দেয়, তখন তা দেখার মতো হয়।",
+        "en": "Weeding and irrigation in Boro fields. Preparations for sowing summer vegetables. Mustard is harvested. Onion and garlic cultivation. Preparing land for sesame. Spraying and caring for mango orchards. Boro paddy fields look stunning when they turn green."
+      },
+      "foods": { "bn": "তিলুয়া, বাতাসা, কদমা, ও চৈত্র সংক্রান্তির তেতো খাবার (নিম পাতা)। ফলের মধ্যে বেল আর কাঁচা আম। আমের মুকুল। নতুন তালের রস। কাঁচা আমের ভর্তা আর সজনে ডাঁটার তরকারি এই সময়ের বিশেষ খাবার। বেলের শরবত আর ডাবের পানি শরীরের তৃষ্ণা মেটায়। ফাগুনের বিকেলে মুড়ির মোয়া আর খৈ বাঙালির প্রিয়।", "en": "Tilua, Batasa, Kadma, and bitter dishes for Chaitra Sankranti. Wood apple and raw mango. Mango blossoms. Tender palm juice. Green mango mash and drumstick curry are special. Wood apple sherbet and coconut water quench thirst. Puffed rice balls (Moa) are favorites on Falgun afternoons." },
+      "birds": { "bn": "কোকিলের বিরতিহীন গান মনের কোণে অনুরণন তোলে। ঘুঘু ও ছোট রঙিন পাখিদের বিচরণ বেড়ে যায়। বাবুই পাখির বাসা নির্মাণ busiest। রঙিন পাখিদের বিচরণ। ফিঙে আর নীলকণ্ঠ পাখির ওড়াউড়ি। বসন্তের ভোরে পাখিদের কলতানে ঘুম ভাঙা গ্রামবাংলার এক অন্যরকম সুখ।", "en": "The tireless call of the Cuckoo resonates in the soul. Increased appearance of doves and colorful small birds. Weaver birds busy with nests. Drongos and Rollers flying around. Waking up to the birds' chirping in the spring morning is a unique joy." },
+      "lifestyle": { "bn": "বাসন্তী রঙের শাড়ি ও পাঞ্জাবি পরে উৎসবে মেতে ওঠে তরুণ-তরুণীরা। চুলে গাঁদা বা পলাশ ফুলের সাজ। শীতের কাপড় গুছিয়ে রাখার সময়। চৈত্র সংক্রান্তির মেলা ও উৎসব। চৈত্র মাসের বিকেলে উঠানে মাদুর পেতে আড্ডা। বাসন্তী রং আর ফুলের সৌরভে চারিদিক উৎসবমুখর হয়ে থাকে। বিকেলের নরম রোদে মেঠো পথে হাঁটার আমেজ।", "en": "Youth celebrate festivals in yellow/saffron attire. Adorning hair with Marigolds or Palash. Storing winter clothes. Chaitra Sankranti fairs and festivals. Gathering on mats in courtyards. The environment stays festive with colors and scents. Walking on village paths in the soft afternoon sun." },
+      "festivals": { "bn": "পহেলা ফাল্গুন (বসন্ত বরণ), ভ্যালেন্টাইন ডে, চৈত্র সংক্রান্তি, ও চড়ক পূজা। হোলি বা দোল উৎসবের আমেজ। ফাগুন উৎসব। বাসন্তী পূজা অনেক জায়গায় অনুষ্ঠিত হয়। চৈত্র সংক্রান্তির মেলায় মাটির পুতুল আর নাগরদোলার আনন্দ।", "en": "Pahela Falgun, Valentine's Day, Chaitra Sankranti, and Charak Puja. Spirit of Holi or Dol. Falgun festival. Basanti Puja is held in places. Clay dolls and carousels at Chaitra Sankranti fairs." },
+      "rural_games": { "bn": "ঘুড়ি ওড়ানো। মার্বেল খেলা। হা-ডু-ডু খেলা। বিকেলে মাঠে বসে দল বেঁধে ডুগডুগি বাজানো। কিশোরদের বনে বাদাড়ে ফুল আর ফল খুঁজে বেড়ানো। বৈশাখী ঝড়ের আগে শান্ত বিকেলে গোল্লাছুট খেলার ধুম।", "en": "Flying kites. Playing marbles. Ha-du-du. Playing village drums. Kids searching for flowers and fruits in the woods. Playing Gollachut on calm afternoons before the storms of Baishakh." },
+      "travel_tips": { "bn": "নাতিশীতোষ্ণ আবহাওয়া, ভ্রমণের জন্য শ্রেষ্ঠ সময়। পাতলা সুতির কাপড় পরুন। বসন্তের এলার্জি বা ধুলোবালি থেকে বাঁচতে মাস্ক ব্যবহার করতে পারেন। রোদের তীব্রতা থেকে বাঁচতে সানগ্লাস। প্রকৃতির ছবি তোলার জন্য ক্যামেরা সাথে রাখুন।", "en": "Temperate weather, best time for travel. Wear light cotton. Use a mask to avoid allergies. Sunglasses to protect from sun. Carry a camera to capture nature." },
+      "best_places": { "bn": "সুনামগঞ্জের শিমুল বাগান, ঢাকা বিশ্ববিদ্যালয় এলাকা, সুন্দরবন, ও সাজেক ভ্যালি। শ্রীমঙ্গলের চা বাগান। সেন্ট মার্টিন ভ্রমণের শ্রেষ্ঠ সময়।", "en": "Shimul Garden in Sunamganj, Dhaka University area, Sundarbans, and Sajek Valley. Sreemangal tea gardens. Best time for Saint Martin." },
+      "images": [
+        "https://images.pexels.com/photos/1166644/pexels-photo-1166644.jpeg",
+        "https://images.pexels.com/photos/33044/pexels-photo-33044.jpeg",
+        "https://images.pexels.com/photos/459451/pexels-photo-459451.jpeg",
+        "https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg"
+      ]
+    }
+  ]
+}

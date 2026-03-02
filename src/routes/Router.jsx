@@ -1,19 +1,25 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter, Route } from "react-router-dom";
 import MainLayout from "../layouts/MainLayout";
 import Home from "../pages/Home";
+import SeasonDetails from "../pages/SeasonDetails";
+import ErrorPage from "../pages/ErrorPage";
 
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <MainLayout />,
-    errorElement: <div>Error 404: পথ হারিয়ে ফেলেছেন!</div>,
+    errorElement: <ErrorPage/>,
     children: [
       {
         path: "/",
         element: <Home />,
       },
-      
+      {
+        path: "/season/:id",
+        element: <SeasonDetails />,
+      },
+      <Route path="*" element={<ErrorPage />} />
     ],
   }
 ]);
