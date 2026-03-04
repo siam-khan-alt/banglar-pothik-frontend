@@ -3,6 +3,7 @@ import MainLayout from "../layouts/MainLayout";
 import Home from "../pages/Home";
 import SeasonDetails from "../pages/SeasonDetails";
 import ErrorPage from "../pages/ErrorPage";
+import Districts from "../pages/Districts";
 
 
 const router = createBrowserRouter([
@@ -18,6 +19,10 @@ const router = createBrowserRouter([
       {
         path: "/season/:id",
         element: <SeasonDetails />,
+      },
+      {
+        path: "/districts",
+        element: <Districts />,
       },
       <Route path="*" element={<ErrorPage />} />
     ],

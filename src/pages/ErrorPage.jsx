@@ -35,7 +35,7 @@ const ErrorPage = () => {
           transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
           className="absolute inset-0 flex items-center justify-center"
         >
-          <div className="bg-white p-6 rounded-3xl shadow-2xl border-2 border-harvest-gold/20 flex flex-col items-center">
+          <div className="bg-white p-6 2xl shadow-2xl border-2 border-harvest-gold/20 flex flex-col items-center">
             <Map size={48} className="text-harvest-gold mb-2" />
             <div className="h-1 w-12 bg-nature-green/20 rounded-full" />
           </div>

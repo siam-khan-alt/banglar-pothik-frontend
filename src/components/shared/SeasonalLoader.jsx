@@ -16,7 +16,7 @@ const SeasonalLoader = () => {
   const { lang } = useLanguage();
 
   return (
-    <div className="fixed inset-0 flex flex-col items-center justify-center bg-[#FDFCF8] z-50 overflow-hidden">
+    <div className=" flex flex-col items-center justify-center bg-pothik-bg overflow-hidden">
       
       <div className="absolute w-[500px] h-[500px] bg-nature-green/5 rounded-full blur-[120px]" />
       <div className="absolute w-[300px] h-[300px] bg-harvest-gold/5 rounded-full blur-[80px] -bottom-20" />
