@@ -1,12 +1,14 @@
-import { Link } from "react-router-dom";
+import { Link, Navigate } from "react-router-dom";
 import { useLanguage } from "../../context/LanguageContext";
-import { Trees, Globe, UserCircle, Menu, X } from "lucide-react";
-import { useState } from "react";
+import { Trees, Globe, UserCircle, Menu, X, LogOut } from "lucide-react";
+import { useContext, useState } from "react";
+import { AuthContext } from "../../context/AuthContext";
+import Swal from "sweetalert2";
 
 const Navbar = () => {
   const { lang, toggleLanguage } = useLanguage();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [user, setUser] = useState(null); 
+  const {user, Logout} = useContext(AuthContext); 
 
   const content = {
     bn: {
@@ -27,6 +29,20 @@ const Navbar = () => {
       login: "Login",
       join: "Join our Community",
     }
+  };
+  const handleLogout = () => {
+    Logout()
+      .then(() => {
+        Swal.fire({
+          icon: 'success',
+          title: t.logoutSuccess,
+          showConfirmButton: false,
+          timer: 1500,
+          background: '#f0fdf4', 
+        });
+        Navigate("/");
+      })
+      .catch((error) => console.log(error));
   };
 
   const t = content[lang];
@@ -58,18 +74,36 @@ const Navbar = () => {
             {user ? (
               <div className="flex items-center gap-6">
                 <Link to="/diary" className="hover:text-harvest-gold transition">{t.diary}</Link>
-                {/* কন্ট্রিবিউট বাটন: গোল্ডেন ব্যাকগ্রাউন্ড */}
+               
                 <Link to="/contribute" className="bg-harvest-gold text-earth-brown px-5 py-2 rounded-full font-bold hover:bg-pothik-bg transition shadow-md">
                   {t.contribute}
                 </Link>
-                <UserCircle size={32} className="cursor-pointer hover:text-harvest-gold transition" />
+                <div className="flex items-center gap-3">
+                    {user?.photoURL ? (
+                        <img 
+                          title={user?.displayName} 
+                          className="w-10 h-10 rounded-full border-2 border-harvest-gold object-cover" 
+                          src={user?.photoURL} 
+                          alt="user" 
+                        />
+                    ) : (
+                        <UserCircle size={32} className="cursor-pointer hover:text-harvest-gold transition" />
+                    )}
+                    
+                    <button 
+                      onClick={handleLogout}
+                      className="flex items-center gap-1 text-sm font-bold hover:text-harvest-gold transition bg-earth-brown/20 px-3 py-2 rounded-lg"
+                    >
+                      <LogOut size={16} />
+                      {t.logout}
+                    </button>
+                </div>
               </div>
             ) : (
               <div className="flex items-center gap-6">
                 <Link to="/login" className="hover:text-harvest-gold transition font-medium">
                   {t.login}
                 </Link>
-                {/* কমিউনিটি জয়েন বাটন: কাস্টম কালার কম্বিনেশন */}
                 <Link 
                   to="/register" 
                   className="bg-harvest-gold text-earth-brown px-6 py-2.5 rounded-lg font-bold hover:bg-pothik-bg transition-all duration-300 shadow-lg"
@@ -121,6 +155,27 @@ const Navbar = () => {
               <Link to="/contribute" onClick={() => setIsMenuOpen(false)} className="block text-xl text-harvest-gold font-bold">{t.contribute}</Link>
             </div>
           )}
+          <div className="flex items-center gap-3">
+                    {user?.photoURL ? (
+                        <img 
+                          title={user?.displayName} 
+                          className="w-10 h-10 rounded-full border-2 border-harvest-gold object-cover" 
+                          src={user?.photoURL} 
+                          alt="user" 
+                        />
+                    ) : (
+                        <UserCircle size={32} className="cursor-pointer hover:text-harvest-gold transition" />
+                    )}
+                    
+                    {/* Logout Button */}
+                    <button 
+                      onClick={handleLogout}
+                      className="flex items-center gap-1 text-sm font-bold hover:text-harvest-gold transition bg-earth-brown/20 px-3 py-2 rounded-lg"
+                    >
+                      <LogOut size={16} />
+                      {t.logout}
+                    </button>
+                </div>
         </div>
       </div>
     </nav>
